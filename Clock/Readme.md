@@ -1,7 +1,5 @@
 # Clock Website Readme
 
-![Clock Website Screenshot](clock-website-screenshot.png)
-
 This Clock Website is a simple web application that displays a digital clock using HTML and CSS. It provides a straightforward and visually appealing way to check the current time. This readme file will guide you through the setup and usage of the Clock Website.
 
 ## Table of Contents
@@ -53,7 +51,7 @@ Now, you should see the Clock Website displayed in your web browser.
 The Clock Website is straightforward to use:
 
 - Open the website by following the setup instructions.
-- The digital clock will automatically display the current time.
+- The digital clock will automatically display the time.
 
 ## Customization
 
